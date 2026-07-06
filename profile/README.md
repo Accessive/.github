@@ -27,7 +27,17 @@ We're an independent game studio and software collective. We make games and tool
 A large-scale multiplayer survival first-person shooter targeting ~150 concurrent players. Built on a server-authoritative netcode architecture using Netfox and ENet. Features component-based design, AOI/interest management, and a full-featured HUD and interaction system.
 
 - Engine: Godot 4
-- Netcode: Netfox / ENet (server-authoritative)
+- Netcode: Custom Backend
+- Status: Active development
+
+---
+
+### Untitled Singleplay Sim
+> *Godot 4 · In Development*
+
+Description withled until scope fully defined
+
+- Engine: Godot 4
 - Status: Active development
 
 ---
