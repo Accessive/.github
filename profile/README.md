@@ -5,7 +5,7 @@
 ### *Accessibility is the Feature*
 
 We build games, tools, and software with accessibility at the core - not as an afterthought.  
-Accessive is an independent game studio and software collective pushing the boundaries of what interactive experiences can be.
+Accessive Studios is a subsidiary; independent game studio and software collective pushing the boundaries of what interactive experiences can be.
 
 [![YouTube](https://img.shields.io/badge/YouTube-@AccessiveStudios-red?style=flat-square&logo=youtube)](https://www.youtube.com/@AccessiveStudios)
 
